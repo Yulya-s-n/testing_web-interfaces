@@ -1,1 +1,1 @@
-https://ci.appveyor.com/api/github/webhook?id=g76tguy0x88qgu4c
+[![Build status](https://ci.appveyor.com/api/projects/status/yi38jmds0wjjjcpc/branch/main?svg=true)](https://ci.appveyor.com/project/Yulya-s-n/testing-web-interfaces/branch/main)
